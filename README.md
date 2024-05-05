@@ -10,7 +10,7 @@ In this project, we focus on implementing multiple data preparation techniques o
 
 ### Evaluation Method
 
-- I calculate the improvement of each method based on different baseline methods. The increase in performance is shown in red color while the decrease in performance is shown in blue color.
+- I calculate the improvement of each method based on different baseline methods.
 
 - For each data preparation stage, I choose the best method in that stage as the baseline respectively.
 
