@@ -30,7 +30,7 @@ In this project, we focus on implementing multiple data preparation techniques o
 | Exp 6             | Multiple Imputation                         | 0.8243 | 0.7422 | <font color='red'>&#8593; +5.3419%</font> | - |
 | Exp 7             | KNN Imputer                                 | 0.8069 | 0.7500 | <font color='red'>&#8593; +3.1182%</font> | - |
 | <i>Data Correction</i> ||||||
-| Exp 8             | Neareset Neighbors Outlier Detection        | 0.8962 | 0.8303 | <font color='red'>&#8593; +8.8546%</font> | Baseline 3 |
+| Exp 8             | Nearest Neighbors Outlier Detection        | 0.8962 | 0.8303 | <font color='red'>&#8593; +8.8546%</font> | Baseline 3 |
 | Exp 9             | Isolation Forest Outlier Detection          | 0.8948 | 0.8582 | <font color='red'>&#8593; +8.6846%</font> | - |
 | <i>Feature Scaling</i> ||||||
 | Exp 10            | Min-Max Normalization on Columns            | 0.9132 | 0.8257 | <font color='red'>&#8593; +1.8969%</font> | - |
